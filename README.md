@@ -1,4 +1,5 @@
-This was a group project completed during the CFG Specialisation stage. My contribution focused on data cleaning and data integration. This repository contains the project files relevant to my contribution.   
+This was a group project completed during the CFG Specialisation stage.  
+My contribution focused on data cleaning and data integration. This repository contains the project files relevant to my contribution.   
 The original README below was prepared by another team member as part of the group project.
 
 # CFGdegree Data Science Group 7 Project
