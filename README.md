@@ -90,12 +90,12 @@ Run all cells from top to bottom.
 
 ## Team Contributions
 
-Team member 1 
-Team member 2
-Team member 3
-Team member 4
-Team member 5
-Team member 6
+Team member 1  
+Team member 2  
+Team member 3  
+Team member 4  
+Team member 5  
+Team member 6  
 Chika
 
 ## Status
