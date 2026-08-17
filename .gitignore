@@ -1,0 +1,35 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac files
+.DS_Store
+
+# Files and folders containing team members names which are created by other members
+# documents folder
+A1_Project_Scope_Methodology_Group7.docx
+A2_Business_Problem_Audience_Value_Group7.docx
+A3_Birth Rate Dataset Research & Analysis_Group7.pdf
+A4_Income_Data_Source_Analysis_Group7.docx
+A5_house_price_data_analysis.docx
+A11_Business_Implications_Recommendations_Group7.docx
+A12_Final_Report_Group7.docx
+A12_Final_Report_Group7.pdf
+A14_GitHub_management_&_final_quality_review_Group7.docx
+# Log folder
+Logs/
+# notebooks folder
+A3_fertility_rate_analysis.ipynb
+A4_income_analysis.ipynb
+A5_housing_affordability_analysis.ipynb
+A10_Regression_And_Forecasting.ipynb
+eda_birth_rate.ipynb
